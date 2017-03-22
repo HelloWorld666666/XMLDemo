@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<persons>
+    <person id = "23">
+        <name>李雷</name>
+        <age>30</age>
+    </person>
+    <person id = "20">
+        <name>韩梅梅</name>
+        <age>23</age>
+    </person>
+</persons>
+<!--每个person是一个元素，里面的内容属于元素组的-->
+<!--Element Node（元素节点）-->
+<!--Text Node(文本节点)-->
